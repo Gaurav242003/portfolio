@@ -5,7 +5,7 @@ export const homeObjone={
     lightTextDesc:true,
     topLine: '|ABOUT',
     headline: 'My self Gaurav Kumar',
-    description:'I am a junior at ABV-IITM,Gwalior pursuing my BTech in Information Technology.I have keen interest in the world of technology, I honed my expertise in wed development, along with a strong understanding of data structures and algorithms, and good problem solving skills.I aspires to make meaningful contributions in tech fields and have ability to quickly adapt the changes. ',
+    description:'I am a junior at ABV-IITM,Gwalior pursuing my BTech in Information Technology.I have keen interest in the world of technology, I honed my expertise in web development, along with a strong understanding of data structures and algorithms.I aspires to make meaningful contributions in tech fields and have ability to quickly adapt the changes. ',
     buttonLabel1: 'Resume',
     buttonLabel2: 'Contact Me',
     imgStart: false,
