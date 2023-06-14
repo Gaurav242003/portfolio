@@ -14,22 +14,38 @@ const Sidebar = ({isOpen,toggle}) => {
       </Icon>
       <SidebarWrapper>
         <SidebarMenu>
-          <SidebarLink to="about" onClick={toggle}>
+          <SidebarLink to="about" onClick={toggle}smooth={true}
+                    durtation={500}
+                    spy={true}
+                    exact="true"
+                    offset={-80}>
             About
           </SidebarLink>
-          <SidebarLink to="discover" onClick={toggle}>
-            Discover
+          <SidebarLink to="projects" onClick={toggle}smooth={true}
+                    durtation={500}
+                    spy={true}
+                    exact="true"
+                    offset={-80}>
+            Projects
           </SidebarLink>
-          <SidebarLink to="services" onClick={toggle}>
-            Services
+          <SidebarLink to="skills" onClick={toggle}smooth={true}
+                    durtation={500}
+                    spy={true}
+                    exact="true"
+                    offset={-80}>
+            Skills
           </SidebarLink>
-          <SidebarLink to="signup" onClick={toggle}>
-            Sign Up
+          <SidebarLink to="contact" onClick={toggle}smooth={true}
+                    durtation={500}
+                    spy={true}
+                    exact="true"
+                    offset={-80}>
+            Contact Me
           </SidebarLink>
         </SidebarMenu>
         <SideBtnWrap>
-          <SideabarRoute to="/signin" onClick={toggle}>
-            Sign In
+          <SideabarRoute to="https://sapphire-jany-42.tiiny.site"  target='_blank' onClick={toggle}>
+            Resume
           </SideabarRoute>
         </SideBtnWrap>
       </SidebarWrapper>
