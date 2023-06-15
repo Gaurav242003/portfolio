@@ -19,7 +19,7 @@ const [mes,setmes]=useState('Send');
                         Get in touch
                     </h1>
 
-                    <form action="https://formsubmit.co/gaurav.k.y24@gmail.com"  method="POST">
+                    <form action="https://formsubmit.co/b47a82a5dd2fdb1687d2d02fe9ae2ad5"  method="POST">
                         <label htmlFor='fname'   >First Name*</label>
                         <Input type="text" id="fname" name="firstname" placeholder="Your name" required />
 
