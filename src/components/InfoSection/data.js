@@ -14,7 +14,7 @@ export const homeObjone={
     dark: true,
     primary:true,
     darkText:false,
-    src1 : 'https://sapphire-jany-42.tiiny.site',
+    src1 : 'https://gray-calley-89.tiiny.site',
     show : false,
 }
 
