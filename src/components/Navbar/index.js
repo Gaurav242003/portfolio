@@ -77,7 +77,7 @@ function Navbar({toggle}) {
 
                     </NavMenu>
                     <NavBtn>
-                        <NavBtnLink to="https://sapphire-jany-42.tiiny.site" target='_blank' >Resume</NavBtnLink>
+                        <NavBtnLink to="https://gray-calley-89.tiiny.site" target='_blank' >Resume</NavBtnLink>
                     </NavBtn>
                 </NavbarContainer>
             </Nav>
