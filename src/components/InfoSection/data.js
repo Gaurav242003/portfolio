@@ -70,19 +70,19 @@ export const homeObjfour={
     lightText:false,
     lightTextDesc:false,
     topLine: '|PROJECTS',
-    headline: 'To-Do web app',
-    description:'A to do list web app with all basic functionality,user can add a new task and delete a task if they desire.HTML and CSS is used for frontend and EJS for templates.MongoDB is used for databases and node.js for backend',
+    headline: 'CodeReview',
+    description:'We developed a web application that leverages OpenAIs natural language understanding capabilities to automate code reviews. The application analyzes code submissions, provide feedback on style, best practices, and potential improvements.',
     buttonLabel1: 'Repository',
     buttonLabel2: 'Live',
     imgStart: true,
-    img : require('../../images/png3.png'),
+    img : require('../../images/pngn.png'),
     alt:'profile',
     dark: false,
     primary:false,
     darkText:true,
     show : true,
-    src1:'https://github.com/Gaurav242003/todolist',
-    src2:'https://gk-v5sa.onrender.com/'
+    src1:'https://github.com/Gaurav242003/CodeReview-frontend',
+    src2:'https://codereviews.netlify.app/'
 
 }
 
@@ -92,19 +92,19 @@ export const homeObjfive={
     lightText:true,
     lightTextDesc:true,
     topLine: '|PROJECTS',
-    headline: 'keepHERE',
+    headline: 'To-Do web app',
     
-    description:'A basic frontend of note keeping web app using react.js with adding and deleting functionality.',
+    description:'A to do list web app with all basic functionality,user can add a new task and delete a task if they desire.HTML and CSS is used for frontend and EJS for templates.MongoDB is used for databases and node.js for backend',
     buttonLabel1:'Respository',
     buttonLabel2: 'Live',
     imgStart: false,
-    img : require('../../images/png4.png'),
+    img : require('../../images/png3.png'),
     alt:'profile',
     dark: true,
     primary:true,
     darkText:false,
     show : true,
-    src1:'https://github.com/Gaurav242003/KeepHERE',
-    src2:'https://gk2.onrender.com/'
+    src1:'https://github.com/Gaurav242003/todolist',
+    src2:'https://gk-v5sa.onrender.com/'
 
 }
